@@ -364,3 +364,15 @@ ul {
     font-size: 16px;
     width: 815px;
 }
+
+.sendmessage-container i {
+    font-size: 24px;
+    color: #80868a;
+    cursor: pointer;
+    height: 60px;
+    line-height: 60px;
+}
+
+.fa-microphone {
+    float: right;
+}
